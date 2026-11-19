@@ -1,0 +1,24 @@
+{
+  "name": "Fabio's Daily Tracker",
+  "short_name": "Fabio",
+  "description": "Fabio\u2019s daily mood, eating, medications, bedtime and calendar tracker",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#476d69",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
